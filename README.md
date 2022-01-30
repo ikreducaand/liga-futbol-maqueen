@@ -29,3 +29,6 @@ Prácticas de micro:bit
 [Práctica 12: Acelerómetro II](https://docs.google.com/presentation/d/1lmMEFRd1_8CisyGoQ_Bvb2HVajqEafx8VkM9a7sBXOY/edit?usp=sharing)
 
 [Práctica 13: Acelerómetro III Juego](https://docs.google.com/presentation/d/1EGHjQsRm29RannmKJaT60pHNVjplvNfG6BFhtavyMBo/edit?usp=sharing)
+
+[Práctica 14: Acelerómetro IV Juego](https://docs.google.com/presentation/d/10L-8Bc7a6DIEdYVXitRXIcfig_vADa9iGfkermkcwkk/edit?usp=sharing)
+
