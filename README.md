@@ -17,3 +17,6 @@ Prácticas de micro:bit
 [Práctica 6: Sensor de Temperatura I](https://docs.google.com/presentation/d/1id9oLFnbGI3TWPrEpMNgV7p9gROR9Z-pADvrUU8zzlg/edit?usp=sharing)
 
 [Práctica 7: Sensor de Temperatura II](https://docs.google.com/presentation/d/1Zm3rMyBwQSrHEjE3jwIozYdYVKKE5Kc2mIuyknfH7vw/edit?usp=sharing)
+
+[Práctica 8: Sensor de Temperatura III](https://docs.google.com/presentation/d/14pMPX7Nt1MmFF_vOri7yUzsvj9mvMyn43SsSfwp70uw/edit?usp=sharing)
+
