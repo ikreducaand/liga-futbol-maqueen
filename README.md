@@ -25,3 +25,5 @@ Prácticas de micro:bit
 [Práctica 10: Sensor de Luminosidad II](https://docs.google.com/presentation/d/1F6W-KSo7sXqm0MOZqkATadhOcjipH0R_9MP_qArmw_k/edit?usp=sharing)
 
 [Práctica 11: Acelerómetro I RETO](https://docs.google.com/presentation/d/1BLE73rUmPJxstCkjnlPlEfld7GbZCLP9SYCgho8lHG4/edit?usp=sharing)
+
+[Práctica 12: Acelerómetro II](https://docs.google.com/presentation/d/1lmMEFRd1_8CisyGoQ_Bvb2HVajqEafx8VkM9a7sBXOY/edit?usp=sharing)
