@@ -20,3 +20,4 @@ Prácticas de micro:bit
 
 [Práctica 8: Sensor de Temperatura III](https://docs.google.com/presentation/d/14pMPX7Nt1MmFF_vOri7yUzsvj9mvMyn43SsSfwp70uw/edit?usp=sharing)
 
+[Práctica 9: Sensor de Luminosidad I](https://docs.google.com/presentation/d/19nFF35N62Ox9e86LOOv-f5x9w02yACdFVF7Z3t2JUsg/edit?usp=sharing)
