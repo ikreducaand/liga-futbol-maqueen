@@ -36,3 +36,5 @@ Prácticas de micro:bit
 
 [Práctica 16: Sprites I](https://docs.google.com/presentation/d/1G9Hz-EFUGY890ZlGIUI1afOQT1IUzKA9AS4Qkk3WX4U/edit?usp=sharing)
 
+[Práctica 17: Sprites II Juego](https://docs.google.com/presentation/d/1uw313F79TrjV-h4v_7AkOGuSb3EdIpZiPC8lbBKeP2A/edit?usp=sharing)
+
