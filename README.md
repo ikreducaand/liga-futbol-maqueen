@@ -42,3 +42,5 @@ Prácticas de micro:bit
 
 [Práctica 19: Juego de reacción](https://docs.google.com/presentation/d/1W89j4PQ8genzFv6VFk2bsDy1eUV0YsgY7nSCh4VsDU0/edit?usp=sharing)
 
+[Práctica 20: Radiocomunicaciones](https://docs.google.com/presentation/d/1jZWlrqbRM3FYaJKldKtz7hnNCDwcoQvyUoe0SoHjd5M/edit?usp=sharing)
+
