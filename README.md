@@ -32,7 +32,7 @@ Prácticas de micro:bit
 
 [Práctica 14: Acelerómetro IV Juego](https://docs.google.com/presentation/d/10L-8Bc7a6DIEdYVXitRXIcfig_vADa9iGfkermkcwkk/edit?usp=sharing)
 
-[Práctica 15: Acelerómetro IV Juego](https://docs.google.com/presentation/d/1vovmjB8pqgeOSDai0IpianQjWz1jKBBbRIwXVbo35V4/edit?usp=sharing)
+[Práctica 15: Brújula](https://docs.google.com/presentation/d/1vovmjB8pqgeOSDai0IpianQjWz1jKBBbRIwXVbo35V4/edit?usp=sharing)
 
-
+[Práctica 16: Sprites I](https://docs.google.com/presentation/d/1G9Hz-EFUGY890ZlGIUI1afOQT1IUzKA9AS4Qkk3WX4U/edit?usp=sharing)
 
