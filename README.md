@@ -38,3 +38,7 @@ Prácticas de micro:bit
 
 [Práctica 17: Sprites II Juego](https://docs.google.com/presentation/d/1uw313F79TrjV-h4v_7AkOGuSb3EdIpZiPC8lbBKeP2A/edit?usp=sharing)
 
+[Práctica 18: Sprites III Juego RETO](https://docs.google.com/presentation/d/1myCy_YKC2g3OkYr0aSIAbrjr7wviK8X-FxfZ0bEJbDY/edit?usp=sharing)
+
+[Práctica 19: Juego de reacción](https://docs.google.com/presentation/d/1W89j4PQ8genzFv6VFk2bsDy1eUV0YsgY7nSCh4VsDU0/edit?usp=sharing)
+
