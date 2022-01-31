@@ -10,8 +10,10 @@
 
 [Práctica 4: Luces de colores de maqueen](https://docs.google.com/presentation/d/1pPNKSltvkWNnXMyk4oVd37uhU4BVJFEHeymo7Y5H7es/edit?usp=sharing)
 
-[Práctica 5: ]()
+[Práctica 5: Robot seguidor de línea *por terminar*](https://docs.google.com/presentation/d/1lD0XeLL_zDaioaBFIUMfIE9Dr4kV-VjEzIChxjl1Eag/edit?usp=sharing)
 
-[Práctica 6: ]()
+[Práctica 6: Robot radiocontrolado](https://docs.google.com/presentation/d/1rK_QAKsR5ifCTamSQJQtcBGuPRywqY7lv7owWzRQvw4/edit?usp=sharing)
 
-[Práctica 7: ]()
+[Práctica 7: Bailando juntos]()
+
+[Práctica 8: Control de un servomotor](https://docs.google.com/presentation/d/1TGqgGwuzWw1n_rqXodwGAX03geJQTUdZqRMynbwhBFI/edit?usp=sharing)
