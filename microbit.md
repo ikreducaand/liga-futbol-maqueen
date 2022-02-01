@@ -43,3 +43,5 @@
 [Práctica 20: Radiocomunicaciones](https://docs.google.com/presentation/d/1jZWlrqbRM3FYaJKldKtz7hnNCDwcoQvyUoe0SoHjd5M/edit?usp=sharing)
 
 [Práctica 21: Miniteclado musical](https://docs.google.com/presentation/d/1fnECg1vCbTveEsSYCM40KMqcYSrLK_D0ynwYRZwZEeM/edit?usp=sharing)
+
+[Práctica 22: Humedad](https://docs.google.com/presentation/d/1tOEsgFjNWbt76RXvEPfHFFJvq-vGp8YOuBh_PhXJpqw/edit?usp=sharing)
