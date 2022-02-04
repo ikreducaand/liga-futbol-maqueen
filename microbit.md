@@ -50,7 +50,7 @@
 
 [Práctica 24: Controlando un servomotor con luz]()
 
-[Práctica 25: Theremin luminoso]()
+[Práctica 25: Theremin luminoso](https://docs.google.com/presentation/d/1R2v80H1yyOA_qGmi6Va_7Trsbd9FH2ckjAeyqsu6bgo/edit?usp=sharing)
 
 
 
