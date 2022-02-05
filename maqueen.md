@@ -12,16 +12,16 @@
 
 [Práctica 6: Robot seguidor de línea](https://docs.google.com/presentation/d/1lD0XeLL_zDaioaBFIUMfIE9Dr4kV-VjEzIChxjl1Eag/edit?usp=sharing)
 
-[Práctica 7: Robot seguidor de luz]()
+[Práctica 7: Robot seguidor de luz](https://docs.google.com/presentation/d/1Rp837d9wbpCfUNxygrqv28PKf3RAz5rGYSghSIDW1oQ/edit?usp=sharing)
 
 [Práctica 8: Robot radiocontrolado](https://docs.google.com/presentation/d/1rK_QAKsR5ifCTamSQJQtcBGuPRywqY7lv7owWzRQvw4/edit?usp=sharing)
 
 [Práctica 9: Bailando juntos]()
 
-[Práctica 10: Robot persigue-objetos]()
+[Práctica 10: Robot persigue-objetos](https://docs.google.com/presentation/d/1hWVnRnSlh9MzvE_Vy1wZSlvMzKfOpTi7vVHty-2tSig/edit?usp=sharing)
 
 [Práctica 11: Control de un servomotor con maqueen](https://docs.google.com/presentation/d/1TGqgGwuzWw1n_rqXodwGAX03geJQTUdZqRMynbwhBFI/edit?usp=sharing)
 
-[Práctica 12: Leer pulsanciones de un mando IR]()
+[Práctica 12: Leer pulsanciones de un mando IR](https://docs.google.com/presentation/d/1a6g8yJBBOxqLaT7A1IGerZzuVoggCGUdgSn5ZsQ6PY8/edit?usp=sharing)
 
-[Práctica 13: Maqueen teledirigido por un mando IR]()
+[Práctica 13: Maqueen teledirigido por un mando IR](https://docs.google.com/presentation/d/1JDpq5KX3UYuwdV8FZ2KW1Na64NyDb0a-ITdT3VabAgQ/edit?usp=sharing)
