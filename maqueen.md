@@ -16,7 +16,7 @@
 
 [Práctica 8: Robot radiocontrolado](https://docs.google.com/presentation/d/1rK_QAKsR5ifCTamSQJQtcBGuPRywqY7lv7owWzRQvw4/edit?usp=sharing)
 
-[Práctica 9: Bailando juntos]()
+[Práctica 9: Bailando juntos la misma coreografía](https://docs.google.com/presentation/d/16aGVZ0A94hecb7v2I38LAR_ACZph1mq2qRZVqQUkoc4/edit?usp=sharing)
 
 [Práctica 10: Robot persigue-objetos](https://docs.google.com/presentation/d/1hWVnRnSlh9MzvE_Vy1wZSlvMzKfOpTi7vVHty-2tSig/edit?usp=sharing)
 
