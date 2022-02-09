@@ -8,7 +8,7 @@
 
 [Práctica 4: Luces de colores de maqueen](https://docs.google.com/presentation/d/1pPNKSltvkWNnXMyk4oVd37uhU4BVJFEHeymo7Y5H7es/edit?usp=sharing)
 
-[Práctica 5: Controlando los LEDs frontales](https://docs.google.com/presentation/d/1pPNKSltvkWNnXMyk4oVd37uhU4BVJFEHeymo7Y5H7es/edit?usp=sharing)
+[Práctica 5: Controlando los LEDs frontales](https://docs.google.com/presentation/d/10YmjF3FacY0vOGSi_sA9uNT8DBYaqo-bqcZup4yz9kg/edit?usp=sharing)
 
 [Práctica 6: Robot seguidor de línea](https://docs.google.com/presentation/d/1lD0XeLL_zDaioaBFIUMfIE9Dr4kV-VjEzIChxjl1Eag/edit?usp=sharing)
 
