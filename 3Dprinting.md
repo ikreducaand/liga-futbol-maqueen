@@ -14,6 +14,5 @@
 - [MyMiniFactory](https://www.myminifactory.com) Gestionada por iMakr, tienda de impresoras y accesorios ingleses es la única web que ofrece archivos STL garantizados ya que cada uno de los archivos que se suben a la web son cuidadosamente seleccionados. Además tiene un servicio que si no encuentras lo que buscas puedes solicitarlo a un diseñador profesional.
 - [Instructables](https://www.instructables.com) No es simplemente un sitio web para compartir archivos 3D, ofrece miles de proyectos creados por los usuarios que nos muestran paso a paso su creación, van desde el bricolaje, trabajos con madera o electrónica.
 
-
-
-
+<b>Ficheros STL</b>:
+[Ficheros STL](https://github.com/astrojc/micro-bit/tree/main/STL-files)
