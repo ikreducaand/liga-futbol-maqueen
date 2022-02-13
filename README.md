@@ -1,4 +1,4 @@
-# Prácticas
+# Prácticas curso micro:bit, maqueen e impresión 3D
 
 [Prácticas de micro:bit](microbit.md)
 
