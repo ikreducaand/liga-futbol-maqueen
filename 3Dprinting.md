@@ -2,7 +2,7 @@
 - [TinkerCAD](https://www.tinkercad.com/) es un programa de modelado 3D y simulación de circuitos electrónicos en línea y gratuito que se ejecuta en un navegador web.
 - [FreeCAD](http://www.freecadweb.org/wiki/index.php?title=Download/es): es un programa de dibujo en 3D de software libre (licencia LGPL) y multiplataforma. Es decir, se puede instalar gratuitamente en cualquier ordenador que tenga un sistema operativo Windows, Linux o Mac OS. [Manual](http://www.iearobotics.com/wiki/index.php?title=Dise%C3%B1o_de_piezas_con_Freecad)
 - [CURA](https://ultimaker.com/en/products/ultimaker-cura-software) Es una aplicación diseñada para impresoras 3D, en la que se pueden modificar los parámetros de impresión y después transformarlos a GCODE.
-- [Astroprint online](https://www.astroprint.com/es/online-stl-slicer-and-gcode-x3g-generator)
+- [Astroprint online](https://www.astroprint.com/plans-and-pricing) Es un conjunto de aplicaciones y plataformas en la nube diseñado para la impresión 3D
 
 <b>Repositorios</b>:
 - Thingiverse es la web con más contenido de archivos STL que hay hasta ahora, le pertenece a la reconocida marca de impresoras Makerbot. 
