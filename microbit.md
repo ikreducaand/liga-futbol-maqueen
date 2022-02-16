@@ -52,5 +52,8 @@
 
 [Práctica 25: Theremin luminoso](https://docs.google.com/presentation/d/1R2v80H1yyOA_qGmi6Va_7Trsbd9FH2ckjAeyqsu6bgo/edit?usp=sharing)
 
+[Práctica 26: Micrófono (I)](https://docs.google.com/presentation/d/1iggOFTvCi7oQTHhBcCP4CJrujxzBnFgLWIgcaoyVVKg/edit?usp=sharing)
+
+[Práctica 27: Micrófono (II)](https://docs.google.com/presentation/d/1LjQaIfEeAImOdonPQhVZtMS9r7gnmLvUU3M5NPeC4zw/edit?usp=sharing)
 
 
