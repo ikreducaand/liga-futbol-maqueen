@@ -16,3 +16,7 @@
 
 <b>Ficheros STL</b>:
 [En el directorio STL-files](https://github.com/astrojc/micro-bit/tree/main/STL-files)
+
+
+<b>Consejos y recursos</b>:
+- [Recursos Impresoras3d.com](https://www.impresoras3d.com/recursos/)
