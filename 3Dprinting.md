@@ -9,7 +9,7 @@
 <b>Repositorios</b>:
 - [Thingiverse](https://www.thingiverse.com) es la web con más contenido de archivos STL que hay hasta ahora, le pertenece a la reconocida marca de impresoras Makerbot. 
 - [Cults](https://cults3d.com) Es uno de los principales sitios web del mercado francés de la impresión 3D ofrece archivos STL de forma gratuita y los de mayor calidad con un pago mínimo.
-- [YouMagine](https://www.youmagine.com) Pertenece a la marca de impresoras Ultimaker, a pesar de que no cuenta con una comunidad tan grande como la web anterior ofrece un compromiso de protección para los diseñadores que cuelgan sus proyectos. 
+- [YouMagine](https://www.youmagine.com) Pertenece a la marca de impresoras Ultimaker, a pesar de que no cuenta con una comunidad tan grande como la web anterior ofrece un compromiso de protección para los diseñadores que cuelgan sus proyectos.
 - [Pinshape](https://pinshape.com) Otra de las comunidades 3D más grandes que existen se compone de 55.000 fabricantes y diseñadores, ofrece también archivos premium con un costo y archivos STL gratuitos.
 - [MyMiniFactory](https://www.myminifactory.com) Gestionada por iMakr, tienda de impresoras y accesorios ingleses es la única web que ofrece archivos STL garantizados ya que cada uno de los archivos que se suben a la web son cuidadosamente seleccionados. Además tiene un servicio que si no encuentras lo que buscas puedes solicitarlo a un diseñador profesional.
 - [Instructables](https://www.instructables.com) No es simplemente un sitio web para compartir archivos 3D, ofrece miles de proyectos creados por los usuarios que nos muestran paso a paso su creación, van desde el bricolaje, trabajos con madera o electrónica.
@@ -17,7 +17,7 @@
 <b>Calibración y primeras pruebas</b>:
 - [Cubo XYZ calibración](https://www.thingiverse.com/thing:1278865): Cubo de Calibracion de 20mm, para saber si está imprimiendo con las dimensiones correctas.
 - [Barco Benchy](https://www.thingiverse.com/thing:763622): El pequeño barco Benchy nos ayudará a ver si nuestros acabados y configuraciones son las correctas o esperadas. 
-- [Torre temperatura](https://www.thingiverse.com/thing:2729076/files): gracias a ella se puede saber cuál es la temperatura óptima del filamento, para después hacer grandes impresiones.
+- [Torre temperatura](https://www.thingiverse.com/thing:2729076/files): gracias a ella se puede saber cuál es la temperatura óptima del filamento, para después hacer grandes impresiones. [videotutorial](https://youtu.be/3fhnZjTJ400)
 - [Test de retracción](https://www.thingiverse.com/thing:3420677): Calibra bien tus retracciones con el siguiente archivo haciendo que no queden los famosos "pelillos de material" en tus piezas
 
 <b>Ficheros STL</b>:
