@@ -15,13 +15,12 @@
 - [Instructables](https://www.instructables.com) No es simplemente un sitio web para compartir archivos 3D, ofrece miles de proyectos creados por los usuarios que nos muestran paso a paso su creación, van desde el bricolaje, trabajos con madera o electrónica.
 
 <b>Ficheros STL</b>:
-[Cubo XYZ calibración](https://www.thingiverse.com/thing:1278865)
-[Barco Benchy](https://www.thingiverse.com/thing:763622)
 [En el directorio STL-files](https://github.com/astrojc/micro-bit/tree/main/STL-files)
 
 <b>Calibración y primeras pruebas</b>:
-[Torre temperatura](https://www.thingiverse.com/thing:2729076/files)
-
+- [Cubo XYZ calibración](https://www.thingiverse.com/thing:1278865): Cubo de Calibracion de 20mm
+- [Barco Benchy](https://www.thingiverse.com/thing:763622): El 3DBenchy es un modelo diseñado específicamente para probar la precisión y las capacidades de las impresoras 3D
+- [Torre temperatura](https://www.thingiverse.com/thing:2729076/files): gracias a ella se puede saber cuál es la temperatura óptima del filamento, para después hacer grandes impresiones.
 
 <b>Consejos y recursos</b>:
 - [Recursos Impresoras3d.com](https://www.impresoras3d.com/recursos/)
