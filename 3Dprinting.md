@@ -3,7 +3,7 @@
 - [FreeCAD](http://www.freecadweb.org/wiki/index.php?title=Download/es): es un programa de dibujo en 3D de software libre (licencia LGPL) y multiplataforma. Es decir, se puede instalar gratuitamente en cualquier ordenador que tenga un sistema operativo Windows, Linux o Mac OS. [Manual](http://www.iearobotics.com/wiki/index.php?title=Dise%C3%B1o_de_piezas_con_Freecad). A continuación tenéis un [Tutorial en Youtube](https://youtube.com/playlist?list=PLmnz0JqIMEzWQV-3ce9tVB_LFH9a91YHf)
 
 <b>Software de laminación (slicer)</b>:
-- [CURA](https://ultimaker.com/en/products/ultimaker-cura-software) Es una aplicación diseñada para impresoras 3D, en la que se pueden modificar los parámetros de impresión y después transformarlos a GCODE. [videotutorial](https://youtu.be/hz1i9cMVRb8)
+- [CURA](https://ultimaker.com/en/products/ultimaker-cura-software) Es una aplicación diseñada para impresoras 3D, en la que se pueden modificar los parámetros de impresión y después transformarlos a GCODE. [Videotutorial](https://youtu.be/hz1i9cMVRb8)
 - [Astroprint online](https://www.astroprint.com/plans-and-pricing) Es un conjunto de aplicaciones y plataformas en la nube diseñado para la impresión 3D
 
 <b>Repositorios</b>:
