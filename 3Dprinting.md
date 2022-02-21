@@ -18,7 +18,7 @@
 [Barco Benchy](https://www.thingiverse.com/thing:763622)
 [En el directorio STL-files](https://github.com/astrojc/micro-bit/tree/main/STL-files)
 
-<b>Calibración</b>:
+<b>Calibración y primeras pruebas</b>:
 [Torre temperatura](https://www.thingiverse.com/thing:2729076/files)
 
 
