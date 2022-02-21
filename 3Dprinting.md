@@ -17,6 +17,9 @@
 <b>Ficheros STL</b>:
 [En el directorio STL-files](https://github.com/astrojc/micro-bit/tree/main/STL-files)
 
+Calibración
+[Torre temperatura](https://www.thingiverse.com/thing:2729076/files)
+
 
 <b>Consejos y recursos</b>:
 - [Recursos Impresoras3d.com](https://www.impresoras3d.com/recursos/)
