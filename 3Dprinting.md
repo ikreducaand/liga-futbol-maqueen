@@ -12,6 +12,7 @@
 - [YouMagine](https://www.youmagine.com) Pertenece a la marca de impresoras Ultimaker, a pesar de que no cuenta con una comunidad tan grande como la web anterior ofrece un compromiso de protección para los diseñadores que cuelgan sus proyectos.
 - [Pinshape](https://pinshape.com) Otra de las comunidades 3D más grandes que existen se compone de 55.000 fabricantes y diseñadores, ofrece también archivos premium con un costo y archivos STL gratuitos.
 - [MyMiniFactory](https://www.myminifactory.com) Gestionada por iMakr, tienda de impresoras y accesorios ingleses es la única web que ofrece archivos STL garantizados ya que cada uno de los archivos que se suben a la web son cuidadosamente seleccionados. Además tiene un servicio que si no encuentras lo que buscas puedes solicitarlo a un diseñador profesional.
+- [CGTrader](https://www.cgtrader.com/) CGTrader es un mercado virtual para comprar y vender diseños 3D
 - [Instructables](https://www.instructables.com) No es simplemente un sitio web para compartir archivos 3D, ofrece miles de proyectos creados por los usuarios que nos muestran paso a paso su creación, van desde el bricolaje, trabajos con madera o electrónica.
 
 <b>Buscadores</b>:
