@@ -20,6 +20,7 @@
 - [STL finder](https://www.stlfinder.com/)
 - [Yeggi](https://www.yeggi.com/)
 - [Thangs](https://thangs.com/)
+- [3Dfind.it](https://www.3dfindit.com/?lang=es_ES)
 
 <b>Calibración y primeras pruebas</b>:
 - [Cubo XYZ calibración](https://www.thingiverse.com/thing:1278865): Cubo de Calibracion de 20mm, para saber si está imprimiendo con las dimensiones correctas.
