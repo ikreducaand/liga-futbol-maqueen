@@ -4,5 +4,5 @@
 
 [Prácticas de maqueen](maqueen.md)
 
-[Prácticas de Impresión 3D]
+[Prácticas de Impresión 3D](3dprinting.md)
 
