@@ -29,7 +29,9 @@
 - [Test de retracción](https://www.thingiverse.com/thing:3420677): Calibra bien tus retracciones con el siguiente archivo haciendo que no queden los famosos "pelillos de material" en tus piezas
 
 <b>Ficheros STL</b>:
-[En el directorio STL-files](https://github.com/astrojc/micro-bit/tree/main/STL-files)
+- [Conector bateria microbit](https://www.thingiverse.com/thing:5241908)
+- [ARM for Maqueen robot](https://www.thingiverse.com/thing:5260869)
+
 
 <b>Consejos y recursos</b>:
 - [Recursos Impresoras3d.com](https://www.impresoras3d.com/recursos/)
