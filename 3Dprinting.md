@@ -31,7 +31,9 @@
 <b>Ficheros STL</b>:
 - [Conector bateria microbit](https://www.thingiverse.com/thing:5241908)
 - [ARM for Maqueen robot](https://www.thingiverse.com/thing:5260869)
-
+- [Soporte micro:bit](thingiverse.com/thing:2144500)
+- [Soporte para guardar 10 micro:bit](https://www.thingiverse.com/thing:3216077)
+- [Carcasa para micro:bit](https://www.thingiverse.com/thing:3121186)
 
 <b>Consejos y recursos</b>:
 - [Recursos Impresoras3d.com](https://www.impresoras3d.com/recursos/)
