@@ -37,3 +37,5 @@
 
 <b>Consejos y recursos</b>:
 - [Recursos Impresoras3d.com](https://www.impresoras3d.com/recursos/)
+- [Guía de solución de problemas](https://www.leon-3d.es/guia-de-resolucion-de-problemas/)
+
