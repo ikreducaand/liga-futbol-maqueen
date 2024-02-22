@@ -22,6 +22,10 @@
 
 [Práctica 11: Control de un servomotor con maqueen](https://docs.google.com/presentation/d/1TGqgGwuzWw1n_rqXodwGAX03geJQTUdZqRMynbwhBFI/edit?usp=sharing)
 
+> [!TIP]
+> Es recomendado probar a poner el mando debajo de la camara del movil y ver si se enciende (al pulsar un botón).
+> A sín podras ver si tiene pilas el mando o si funciona.
+
 [Práctica 12: Leer pulsanciones de un mando IR](https://docs.google.com/presentation/d/1a6g8yJBBOxqLaT7A1IGerZzuVoggCGUdgSn5ZsQ6PY8/edit?usp=sharing)
 
 [Práctica 13: Maqueen teledirigido por un mando IR](https://docs.google.com/presentation/d/1JDpq5KX3UYuwdV8FZ2KW1Na64NyDb0a-ITdT3VabAgQ/edit?usp=sharing)
